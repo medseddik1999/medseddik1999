@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @medseddik1999
-- 👀 I’m interested in on big data topics , Finanace , Network analysis 
-- 🌱 I’m currently working on projects about crypto monnaie stratigie and portfolo optimization 
+- 👀 I am interested in topics related to big data, Machine Learning, Finanace and Network analysis.
+- 🌱 I am currently working on projects regarding crypto-currency  and wallet optimization. 
 .
 - 📫 How to reach me Midou.ik.1999@gmail.com 
 
