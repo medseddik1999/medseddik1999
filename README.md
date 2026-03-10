@@ -1,5 +1,5 @@
 #   💫 About Me:
-👋 Hey, I’m french Data scientist @medseddik1999<br>👀 I am interested in topics related to big data, Machine Learning, Finanace and Network analysis.<br>🌱 I am currently working on projects regarding crypto-currency and wallet optimization. .<br>📫 How to reach me  Midou.ik.1999@gmail.com <br> You can see my website here: https://seddik1999abdm.netlify.app/ 
+👋 Hey, I’m french Data scientist @medseddik1999<br>👀 I am interested in topics related to big data, Machine Learning, Finanace and Network analysis.<br>🌱 I am currently working on projects regarding crypto-currency and wallet optimization. .<br>📫 How to reach me  Seddik.abdelhakim99@gmail.com <br> You can see my website here: https://seddik1999abdm.netlify.app/ 
 
 
 ## 🌐 Socials:
