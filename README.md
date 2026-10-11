@@ -75,25 +75,15 @@ I'm a French Data Scientist 🇫🇷 interested in the intersection of **data sc
 
 ---
 
-## 📈 Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=medseddik1999&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F78166&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20Activity"
-    alt="GitHub contribution activity graph"
-    width="100%"
-  />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/medseddik1999?tab=repositories">
+  <a href="https://github.com/medseddik1999/ETL-From-SQL-to-Neo4J">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=medseddik1999&repo=REPLACE_WITH_PROJECT_1&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Featured project one" />
   </a>
-  <a href="https://github.com/medseddik1999?tab=repositories">
+  <a href="https://github.com/medseddik1999/FinanceShiny">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=medseddik1999&repo=REPLACE_WITH_PROJECT_2&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Featured project two" />
   </a>
 </p>
