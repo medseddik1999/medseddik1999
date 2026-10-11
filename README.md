@@ -41,7 +41,7 @@ I'm a French Data Scientist 🇫🇷 interested in the intersection of **data sc
   <a href="https://www.linkedin.com/in/abdelhakim-mohamed-seddik-a70474194/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/medseddik1999">
+  <a href="https://github.com/medseddik1999?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
   </a>
 </p>
@@ -51,10 +51,8 @@ I'm a French Data Scientist 🇫🇷 interested in the intersection of **data sc
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medseddik1999&layout=donut&langs_count=8&hide=jupyter%20notebook&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used programming languages, excluding Jupyter Notebook" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medseddik1999&layout=donut&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used programming languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=medseddik1999&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub profile statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medseddik1999&layout=donut&langs_count=8&hide=jupyter%20notebook&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used programming languages excluding Jupyter Notebook" />
 </p>
 
 <p align="center">
@@ -77,17 +75,14 @@ I'm a French Data Scientist 🇫🇷 interested in the intersection of **data sc
 
 ---
 
-
-
-
 ## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/medseddik1999/ETL-From-SQL-to-Neo4J">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=medseddik1999&repo=ETL-From-SQL-to-Neo4J&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="ETL From SQL to Neo4J" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=medseddik1999&repo=ETL-From-SQL-to-Neo4J&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="ETL From SQL to Neo4J" />
   </a>
   <a href="https://github.com/medseddik1999/FinanceShiny">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=medseddik1999&repo=FinanceShiny&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="FinanceShiny" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=medseddik1999&repo=FinanceShiny&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="FinanceShiny" />
   </a>
 </p>
 
@@ -96,7 +91,6 @@ I'm a French Data Scientist 🇫🇷 interested in the intersection of **data sc
     <img src="https://img.shields.io/badge/View_All_Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View all projects" />
   </a>
 </p>
-
 
 ---
 
@@ -119,7 +113,7 @@ I'm a French Data Scientist 🇫🇷 interested in the intersection of **data sc
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 </p>
