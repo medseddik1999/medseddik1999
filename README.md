@@ -77,14 +77,15 @@ I'm a French Data Scientist 🇫🇷 interested in the intersection of **data sc
 
 
 
+
 ## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/medseddik1999/ETL-From-SQL-to-Neo4J">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=medseddik1999&repo=REPLACE_WITH_PROJECT_1&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Featured project one" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=medseddik1999&repo=ETL-From-SQL-to-Neo4J&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="ETL From SQL to Neo4J" />
   </a>
   <a href="https://github.com/medseddik1999/FinanceShiny">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=medseddik1999&repo=REPLACE_WITH_PROJECT_2&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Featured project two" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=medseddik1999&repo=FinanceShiny&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="FinanceShiny" />
   </a>
 </p>
 
@@ -93,6 +94,7 @@ I'm a French Data Scientist 🇫🇷 interested in the intersection of **data sc
     <img src="https://img.shields.io/badge/View_All_Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View all projects" />
   </a>
 </p>
+
 
 ---
 
