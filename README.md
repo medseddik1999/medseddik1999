@@ -148,8 +148,11 @@ I'm a French Data Scientist 🇫🇷 interested in the intersection of **data sc
   </a>
 </p>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=medseddik1999&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" alt="Profile views" />
+
+![Profile views](https://komarev.com/ghpvc/?username=medseddik1999&style=for-the-badge&color=1F6FEB&label=PROFILE%20VIEWS)
+
 </p>
 
 <p align="center">
